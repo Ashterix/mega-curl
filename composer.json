@@ -4,6 +4,7 @@
     "description": "This class allows you work easy with PHP CURL",
     "keywords": ["cURL", "request"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Slava Basko",
